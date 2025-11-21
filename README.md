@@ -5,7 +5,7 @@
   To analyze audio signal by removing unwanted frequency. 
 
 # APPARATUS REQUIRED: 
-   
+    
    PC installed with SCILAB/Python. 
 
 # PROGRAM: 
