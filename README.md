@@ -86,20 +86,15 @@ plt.show()
 ```
 
 # AUDIO USED:
-[good-morning-242169.mp3](https://github.com/user-attachments/files/23680389/good-morning-242169.mp3)
+[Good_Afternoon_Audio.mp3](https://github.com/user-attachments/files/23681165/Good_Afternoon_Audio.mp3)
 
 
 
 # OUTPUT: 
-<img width="1010" height="393" alt="image" src="https://github.com/user-attachments/assets/9bbaa54b-735f-4768-862b-cb7055726760" />
-<img width="1012" height="393" alt="image" src="https://github.com/user-attachments/assets/cf034e00-95bb-4a0f-9135-384957891b90" />
-<img width="406" height="244" alt="Screenshot 2025-11-21 220656" src="https://github.com/user-attachments/assets/cfc20a27-410d-42b3-8fa8-c5d4c1662215" />
-<img width="958" height="470" alt="image" src="https://github.com/user-attachments/assets/2f406b11-4074-4b98-acfb-2e2120e933d3" />
-
-
-
-
-
+<img width="1005" height="393" alt="download" src="https://github.com/user-attachments/assets/a99371e5-e8c8-46c2-bd9d-665aec6e0e67" />
+<img width="1012" height="393" alt="download" src="https://github.com/user-attachments/assets/d7526ff7-765c-4179-b5c6-35eee62f5d3b" />
+<img width="384" height="239" alt="image" src="https://github.com/user-attachments/assets/6449f2a6-e37a-4084-b44d-bd31e4396ae8" />
+<img width="958" height="470" alt="download" src="https://github.com/user-attachments/assets/15a2c642-fde0-4738-be06-79b6e3582613" />
 
 
 
